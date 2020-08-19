@@ -1,4 +1,6 @@
 # ZoomReportsToGoogleSheets
+Easy to generate Zoom Dashboard.
+
 Automatically push zoom attendence logs to a Google sheet. of your choosing. Good for role call. 
 
 This app combines a couple things. 
